@@ -1,0 +1,8 @@
+git clone https://github.com/CaseyNotley/WS8
+
+git add GitCommands.txt
+git add climate.py
+
+git commit -m 'Q1'
+
+git push
